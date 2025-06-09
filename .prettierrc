@@ -1,0 +1,7 @@
+module.exports = {
+  singleQuote: false,         // Use double quotes
+  bracketSpacing: true,       // Adds space between brackets
+  tabWidth: 2,                // 2 spaces per level
+  trailingComma: "es5",       // Adds trailing commas where valid
+  semi: true                  // Adds semicolons
+};
